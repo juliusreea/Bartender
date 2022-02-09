@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\Bartender\Bartender\bin\Debug\net5.0\Bartender.exe
+C:\Users\Dell\source\repos\Bartender\Bartender\bin\Debug\net5.0\Bartender.deps.json
+C:\Users\Dell\source\repos\Bartender\Bartender\bin\Debug\net5.0\Bartender.runtimeconfig.json
+C:\Users\Dell\source\repos\Bartender\Bartender\bin\Debug\net5.0\Bartender.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Bartender\Bartender\bin\Debug\net5.0\Bartender.dll
+C:\Users\Dell\source\repos\Bartender\Bartender\bin\Debug\net5.0\ref\Bartender.dll
+C:\Users\Dell\source\repos\Bartender\Bartender\bin\Debug\net5.0\Bartender.pdb
+C:\Users\Dell\source\repos\Bartender\Bartender\obj\Debug\net5.0\Bartender.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Bartender\Bartender\obj\Debug\net5.0\Bartender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Bartender\Bartender\obj\Debug\net5.0\Bartender.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Bartender\Bartender\obj\Debug\net5.0\Bartender.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Bartender\Bartender\obj\Debug\net5.0\Bartender.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Bartender\Bartender\obj\Debug\net5.0\Bartender.dll
+C:\Users\Dell\source\repos\Bartender\Bartender\obj\Debug\net5.0\ref\Bartender.dll
+C:\Users\Dell\source\repos\Bartender\Bartender\obj\Debug\net5.0\Bartender.pdb
+C:\Users\Dell\source\repos\Bartender\Bartender\obj\Debug\net5.0\Bartender.genruntimeconfig.cache
